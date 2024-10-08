@@ -11,7 +11,7 @@ CriaCartao(
 criaCartao(
   'programação',
   'O que é uma Função?
-  'Uma função é um bloco de código que executa
+  'Uma função é um bloco de código que executa uma tarefa'
   )
 criarCartao(
   'Lingua inglesa'
